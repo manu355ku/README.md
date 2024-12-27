@@ -6,7 +6,7 @@ I'm a developer for a top tech firm and a passionate coder. I write scalable and
 
 - 🌏 I live in Noida, India
 - 🔭 I’m currently working at a Tech firm in India
-- 💬 Ask me about JavaScript, PHP
+- 💬 Ask me about JavaScript, NODE,REACT,PHP
 - 📫 How to reach me: @manu355ku
 - 😄 Pronouns: he/him
 - 🎧 Listening to: Bollywood Music
