@@ -6,8 +6,8 @@ I'm a developer for a top tech firm and a passionate coder. I write scalable and
 
 - 🌏 I live in Noida, India
 - 🔭 I’m currently working at a Tech firm in India
-- 💬 Ask me about JavaScript, NODE,REACT,PHP
-- 📫 How to reach me: @manu355ku
+- 💬 Ask me about Laravel,NODE.js,REACT .js,FastApi
+- 📫 How to reach me: @manu355ku @manohark7507@gmail.com
 - 😄 Pronouns: he/him
 - 🎧 Listening to: Bollywood Music
 - ⚡ Fun fact: I once helped build an app that collected India's favourite street foods
